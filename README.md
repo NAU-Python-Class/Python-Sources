@@ -14,10 +14,10 @@
 
 > To be able to make done the tasks change [ ] to [x]...
 
-## To Do list for Learning
+## 1. Learn Python the Hard Way
+Finishing this exercise create a repository of your own to write exercises. While you are following the exercises  use line comments and multiline comments to take notes, and remind yourself with them. Save each exercises seperately and save it to your repository. After finishing the exercises and saving it to your repository change the corresponding task below [ ] to [X] and commit the changes...
 
-1. Learn Python the Hard Way
-  - [X] Exercise 0: The Setup
+  - [ ] Exercise 0: The Setup
   - [ ] Exercise 1: A Good First Program
   - [ ] Exercise 2: Comments and Pound Characters
   - [ ] Exercise 2: Comments And Pound Characters
@@ -71,3 +71,5 @@
   - [ ] Exercise 50: Your First Website
   - [ ] Exercise 51: Getting Input From A Browser
   - [ ] Exercise 52: The Start Of Your Web Game
+  
+  
